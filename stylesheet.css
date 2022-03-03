@@ -1,0 +1,48 @@
+body.ad {
+    background-color: #eeef6b;
+  
+}
+
+h1.ad {
+    transform: rotate(20deg);
+    text-align: center;
+    padding-top: 30%;
+    padding-left: 9%;
+}
+img{
+    margin:  5%;
+    border: navy solid 2px;
+    border-radius: 30px;
+  
+}
+button.ad
+{
+    margin: 3%;
+}
+
+h1
+{
+    margin: 3%;
+}
+img.ad1{
+    height: 350px;
+    border: navy solid 2px;
+    border-radius: 30px;
+    margin: 5% 2%;
+    
+}
+img.ad2{
+    width: 70%;
+    height: 350px;
+    border: navy solid 2px;
+    border-radius: 30px;
+    margin: 5% 2%;
+   
+}
+div#r7la {
+    display: none;
+}
+img#aa{
+    width: 60%;
+    height: 35%;
+}
